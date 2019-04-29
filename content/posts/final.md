@@ -28,8 +28,8 @@ wezmą:
 – raper i filozof Mikser, który poprowadzi interaktywne warsztaty freestylowe o
   wartościach.
 
-W programie debaty MC również podsumowanie I edycji Programu MĄDRZY CYFROWI,
+W programie debaty MC również: podsumowanie I edycji Programu MĄDRZY CYFROWI,
 prezentacje nagrodzonych projektów społecznych zrealizowanych przez młodzież w
-ramach programu MC, w tym akcji „Słowa krzywdzą”, raport z najnowszych badań
-„EU Kids Online” na temat korzystania przez nastolatków z internetu,
+ramach programu MC (w tym akcji „Słowa krzywdzą”), raport z najnowszych badań
+„EU Kids Online” na temat korzystania przez nastolatków z internetu oraz
 interaktywne quizy dla młodzieży jako forma udziału w dyskusji.
