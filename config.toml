@@ -1,4 +1,4 @@
-baseurl = "wonderful-bhaskara-df2784.netlify.com"
+baseurl = "/"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
@@ -17,7 +17,7 @@ blog = "blog/:slug/"
 [params]
 dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
-description = "Strona komunikatów projektu Mądrzy Cyfrowi"
+description = "Aktualności Programu Mądrzy Cyfrowi"
 copyright = "Copyright © 2019 Fundacja CPCD"
 # copyrightUrl = "https://creativecommons.org/licenses/by-sa/4.0/"
 logofile = "./img/MC-logo.png"

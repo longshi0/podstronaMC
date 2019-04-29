@@ -2,4 +2,4 @@
 title = "Home"
 +++
 
-Oto strona z informacjami o projekcie Mądrzy Cyfrowi.
+Strona aktualności Programu **Mądrzy Cyfrowi.**
