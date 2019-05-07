@@ -3,7 +3,7 @@ title = 'Finał I edycji Programu oraz Debata dla Młodzieży'
 date = 2019-04-29T14:56:50+02:00
 draft = false
 tags = ["debata MC"]
-description = "Zaproszenie na Debatę Mądrzy Cyfrowi na warszawskich Targach Książki"
+description = "Zaproszenie na Debate Madrzy Cyfrowi na warszawskich Targach Ksiazki"
 +++
 
 Fundacja „ABCXXI – Cała Polska czyta dzieciom” przy wsparciu Google.org

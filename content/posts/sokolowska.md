@@ -2,8 +2,8 @@
 title = Kasia Sokołowska gościem debaty Mądrzy Cyfrowi!'
 date = 2019-05-07T10:16:37+02:00
 draft = false
-tags = ["Sokołowska", "Debata MC"]
-description = "Kasia Sokołowska gościem debaty MC na Targach Książki!"
+tags = ["Sokolowska", "Debata MC"]
+description = "Kasia Sokolowska gościem debaty MC na Targach Ksiazki!"
 +++
 
 Gościem Specjalnym Debaty MC będzie Kasia Sokołowska, reżyser i choreograf,
