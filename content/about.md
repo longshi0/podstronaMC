@@ -13,7 +13,7 @@ takich jak: szacunek, uczciwość, mądrość oraz odwaga cywilna. Uczniowie w
 kreatywny sposób będą poznawać wartości, dyskutować o nich, a także uczyć się
 podczas ćwiczeń praktycznych ich rozpoznawania i nazywania, tak by w codziennym
 życiu umiejętnie je okazywać i nimi się kierować. Jednocześnie podczas zajęć
-ich uczestnicy będą rozwijać umiejętności cyfrowe, ucząc się tworzenia oraz
+uczestnicy będą rozwijać umiejętności cyfrowe, ucząc się tworzenia oraz
 obrabiania grafik i zdjęć, podstaw montażu trójwymiarowego wideo, narzędzi do
 pracy w chmurze, czy zasad bezpiecznego i odpowiedzialnego korzystania z
 internetu.

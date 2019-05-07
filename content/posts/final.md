@@ -16,14 +16,20 @@ z wykorzystaniem nowych technologii.
 Debatę MC poprowadzą Anna Dziewit-Meller i Marcin Meller, a udział w niej
 wezmą:
 
-– Katarzyna Ryrych i Paweł Beręsewicz – autorzy opowiadań w tomach „Gorzka
+– Katarzyna Ryrych i Paweł Beręsewicz, autorzy opowiadań w tomach „Gorzka
   czekolada i inne opowiadania o ważnych sprawach” oraz „Gorzka czekolada -
   nowe opowiadania o ważnych sprawach”, a także wielu innych znakomitych
   książek dla dzieci i młodzieży;
 
-– Marta Florkiewicz-Borkowska, nauczycielka roku 2017;
+– Marta Florkiewicz-Borkowska, nauczycielka języka niemieckiego w
+  Szkole Podstawowej im. Karola Miarki w Pielgrzymowicach, edukatorka w
+  zakresie nowoczesnych rozwiązań w edukacji, trenerka w wielu
+  ogólnopolskich projektach, nauczycielka roku 2017;
 
-– Przemysław Staroń, nauczyciel roku 2018;
+– Przemysław Staroń, Psycholog, nauczyciel, trener, nagrodzony przez Komisję
+  Europejską twórca międzypokoleniowego Zakonu Feniksa, tutor 31 olimpijczyków
+  z filozofii, fan efektu wow, twórca #utrzy, zwany też profesorem Snapem,
+  Nauczyciel Roku 2018;
 
 – raper i filozof Mikser, który poprowadzi interaktywne warsztaty freestylowe o
   wartościach;
