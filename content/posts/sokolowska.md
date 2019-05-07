@@ -1,0 +1,16 @@
++++
+title = Kasia Sokołowska gościem debaty Mądrzy Cyfrowi!'
+date = 2019-05-07T10:16:37+02:00
+draft = false
+tags = ["Sokołowska", "Debata MC"]
+description = "Kasia Sokołowska gościem debaty MC na Targach Książki!"
++++
+
+Gościem Specjalnym Debaty MC będzie Kasia Sokołowska, reżyser i choreograf,
+jedna z najbardziej charyzmatycznych postaci w polskim świecie mody. Od ponad
+20 lat reżyseruje i produkuje największe pokazy mody, współpracując z czołówką
+modowych marek i projektantów, od kilku lat zasiada w jury programu "Top
+Model".
+
+Nam pomoże wykreować modę na wartości i mądre korzystanie z nowych
+technologii.
