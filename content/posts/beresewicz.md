@@ -1,7 +1,7 @@
 +++
 title = 'Paweł Beręsewicz gościem debaty Mądrzy Cyfrowi'
 date = 2019-05-21T10:45:57+02:00
-draft = true
+draft = false
 tags = ["debata"]
 description = "Paweł Beręsewicz, autor opowiadań z tomu «Gorzka Czekolada» gościem debaty MC"
 +++
