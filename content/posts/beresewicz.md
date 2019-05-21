@@ -1,5 +1,5 @@
 +++
-title = 'Paweł Beręsewicz gościem debaty Mądrzy Cyfrowi'
+title = 'Paweł Beręsewicz gościem debaty MĄDRZY CYFROWI'
 date = 2019-05-21T10:45:57+02:00
 draft = false
 tags = ["debata"]

@@ -1,5 +1,5 @@
 +++
-title = "Kasia Sokołowska gościem debaty Mądrzy Cyfrowi"
+title = "Kasia Sokołowska gościem debaty MĄDRZY CYFROWI"
 date = 2019-05-07T10:16:37+02:00
 draft = false
 tags = ["Sokolowska", "Debata MC"]
