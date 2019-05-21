@@ -3,8 +3,7 @@ title = 'Katarzyna Ryrych'
 date = 2019-05-21T10:46:12+02:00
 draft = true
 tags = ["debata"]
-description = "Katarzyna Ryrych, autorka opowiadań z tomu «Gorzka czekolada»
-               będzie gościem debaty Mądrzy Cyfrowi"
+description = "Katarzyna Ryrych, autorka opowiadań z tomu «Gorzka czekolada» będzie gościem debaty Mądrzy Cyfrowi"
 +++
 
 Katarzyna Ryrych.
