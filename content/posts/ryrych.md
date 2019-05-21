@@ -1,5 +1,5 @@
 +++
-title = 'Katarzyna Ryrych'
+title = 'Katarzyna Ryrych gościem debaty Mądrzy Cyfrowi'
 date = 2019-05-21T10:46:12+02:00
 draft = false
 tags = ["debata"]
