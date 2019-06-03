@@ -9,8 +9,8 @@ description = "Katarzyna Ryrych, autorka opowiadań z tomu «Gorzka czekolada» 
 Katarzyna Ryrych.
 
 Zawsze chciała być pisarką. Zadebiutowała w drugim Konkursie Literackim im.
-Astrid Lindgren - i tak już zostało. Znaczy się pisze już od ponad dziesięciu
-lat pisza dla dzieci i młodzieży. Ostatnio też dla kobiet.
+Astrid Lindgren - i tak już zostało. To znaczy, pisze już od ponad dziesięciu
+lat dla dzieci i młodzieży. Ostatnio też dla kobiet.
 
 O czym?
 
