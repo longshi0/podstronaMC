@@ -14,3 +14,5 @@ Model”.
 
 Nam pomoże wykreować modę na wartości i mądre korzystanie z nowych
 technologii.
+
+{{< figure src="/img/Kasia-Sokolowska.jpg" title="fot. Jacek Porębski" >}}
