@@ -1,9 +1,9 @@
 +++
-title = 'Relacja Z Debaty'
+title = 'Relacja z debaty MĄDRZY CYFROWI'
 date = 2019-06-03T10:09:02+02:00
 draft = false
-tags = ['debata', 'relacja']
-description = "Relacja z debaty MĄDRZY CYFROWI na Stadionie Narodowym podczas Targów Książki"
+tags = ['debata', 'relacja', 'MĄDRZY CYFROWI']
+description = "Relacja z debaty MĄDRZY CYFROWI na Stadionie Narodowym podczas Targów Książki."
 +++
 
 24 maja br. na Kanapie Literackiej Warszawskich Targów Książki (PGE Narodowy)
@@ -92,21 +92,39 @@ społecznych z 6 placówek biorących udział w Programie MC:
   do wykorzystania przez inne placówki!
 
 {{< figure src="/img/relacja-debata/1 Mellerowie DK.jpg" title="Prowadzący debatę A. i M. Mellerowie" >}}
+
 {{< figure src="/img/relacja-debata/2 Raper Mikser_DK.jpg" title="Raper Mikser" >}}
+
 {{< figure src="/img/relacja-debata/3 Ola Kalinowska-Nowak i sterujacy MC DK.jpg" title="B. Dubiel, A. Kalinowska-Nowak (Google Poland) I. Koźmińska, F. Katner " >}}
+
 {{< figure src="/img/relacja-debata/4 modanawartosci z Kasia S DK.jpg" title="Moda na wartości z Kasią Sokołowską" >}}
+
 {{< figure src="/img/relacja-debata/5 Autorzy Gorzkiej DK.jpg" title="K. Ryrych i P. Beręsewicz - autorzy «Gorzkiej czekolady»" >}}
+
 {{< figure src="/img/relacja-debata/6 nauczyciele roku DK.jpg" title="Nauczyciele Roku - M. Florkiewicz-Borkowska i P. Staroń" >}}
+
 {{< figure src="/img/relacja-debata/7 prof Walter DK.jpg" title="Prezentacja dr hab. Natalii Walter" >}}
+
 {{< figure src="/img/relacja-debata/8 Pielgrzymowice DK.jpg" title="Uczniowie SP w Pielgrzymowicach" >}}
+
 {{< figure src="/img/relacja-debata/9 Szprotawa DK.jpg" title="Prezentacja projektu MBP w Szprotawie" >}}
+
 {{< figure src="/img/relacja-debata/10 Skomlin DK.jpg" title="Uczniowie SP w Skomlinie" >}}
+
 {{< figure src="/img/relacja-debata/11 Stare Zawady DK.jpg" title="Projekt PSP w Starych Zawadach" >}}
+
 {{< figure src="/img/relacja-debata/12 Przasnysz DK.jpg" title="Uczniowie SP nr 1 w Przasnyszu" >}}
+
 {{< figure src="/img/relacja-debata/13 Elblag DK.jpg" title="Młodzież z Centrum Spotkań Europejskich «Światowid» w Elblągu" >}}
+
 {{< figure src="/img/relacja-debata/14 Prowadzacy DK.jpg" title="Prowadzący debatę A. i M. Mellerowie" >}}
+
 {{< figure src="/img/relacja-debata/15 Druzyna Miksera DK.jpg" title="Raper Mikser z zespołem" >}}
+
 {{< figure src="/img/relacja-debata/16 Selfie z Kasia JG.jpg" title="Selfie z Kasią Sokołowską" >}}
+
 {{< figure src="/img/relacja-debata/17 Selfie z Mikserem JG.jpg" title="Selfie z Mikserem" >}}
+
 {{< figure src="/img/relacja-debata/18 Pielgrzymowice JG.jpg" title="Ekipa kampanii SŁOWA KRZYWDZĄ z Pielgrzymowic" >}}
+
 {{< figure src="/img/relacja-debata/19 Ekipa MC JG.jpg" title="Ekipa MĄDRYCH CYFROWYCH" >}}
