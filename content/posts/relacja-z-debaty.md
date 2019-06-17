@@ -15,12 +15,12 @@ zmieniać świat na lepsze opowiadali znakomici Goście oraz młodzież z placó
 które wzięły udział w programie MĄDRZY CYFROWI.
 
 
-Gościem Specjalnym Debaty MC była Kasia Sokołowska, reżyserka i choreografka,
+Gościem specjalnym debaty MC była Kasia Sokołowska, reżyserka i choreografka,
 jedna z najbardziej charyzmatycznych postaci w polskim świecie mody, od ponad
 20 lat reżyserująca i produkująca największe pokazy mody, od kilku lata jurorka
 programu „Top Model”. Nas wspiera w wykreowaniu akcji **#modanawartosci**!
 
-W Debacie MC udział wzięli:
+W debacie MC udział wzięli:
 
 - Katarzyna Ryrych i Paweł Beręsewicz – autorzy opowiadań w tomach „Gorzka
   czekolada i inne opowiadania o ważnych sprawach” oraz „Gorzka czekolada –
@@ -49,7 +49,7 @@ W Debacie MC udział wzięli:
   uzależnień, treningu kreatywności, kultury Hip hop; od kilku lat wspiera
   Fundację w promowaniu wartości moralnych.
 
-W programie Debaty MC znalazły się również prezentacje wybranych projektów
+W programie debaty MC znalazły się również prezentacje wybranych projektów
 społecznych z 6 placówek biorących udział w Programie MC:
 
 - Publiczna Szkoła Podstawowa w Starych Zawadach z projektem „Budowa Ścieżki
