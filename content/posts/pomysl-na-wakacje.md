@@ -6,7 +6,7 @@ tags = ['rekrutacja']
 description = "Zaproszenie do wakacyjnej edycji Programu MĄDRZY CYFROWI"
 +++
 
-DOŁĄCZ DO [MĄDRYCH CYFROWYCH!](www.madrzycyfrowi.pl)
+DOŁĄCZ DO [MĄDRYCH CYFROWYCH!](https://www.madrzycyfrowi.pl)
 
 Drodzy Edukatorzy ze szkół, bibliotek, domów kultury i nie tylko!
 
